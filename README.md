@@ -5,6 +5,7 @@
 
 - 📫 Email me at: [sunjianfeng@csxiaoyao.com](mailto:sunjianfeng@csxiaoyao.com)
 
+![](https://wx1.sinaimg.cn/bmiddle/8aaa9b40gy1frfkon6z63g208c08cqeb.gif)
 
 ![](https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian)
 
