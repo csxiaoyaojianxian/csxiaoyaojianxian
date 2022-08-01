@@ -1,0 +1,21 @@
+{
+  "name": "csxiaoyaojianxian",
+  "version": "1.0.0",
+  "description": "auto update",
+  "main": "daily.js",
+  "scripts": {
+    "start": "node daily.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csxiaoyaojianxian/csxiaoyaojianxian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csxiaoyaojianxian/csxiaoyaojianxian/issues"
+  },
+  "homepage": "https://github.com/csxiaoyaojianxian/csxiaoyaojianxian#readme",
+  "dependencies": {}
+}
