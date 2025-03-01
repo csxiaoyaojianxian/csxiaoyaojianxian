@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=csxiaoyaojianxian.csxiaoyaojianxian&left_color=green&right_color=red)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian)
 
 ![](https://wx1.sinaimg.cn/bmiddle/8aaa9b40gy1frfkon6z63g208c08cqeb.gif)
 
