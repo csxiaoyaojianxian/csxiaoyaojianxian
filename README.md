@@ -6,9 +6,9 @@
 [![Wechat](https://img.shields.io/badge/-17186391724-07c160?style=flat-square&logo=Wechat&logoColor=white&link=https://www.csxiaoyao.com/)](https://csxiaoyao.com)
 [![GitHub User's stars](https://img.shields.io/github/stars/Turkyden?style=social)](https://github.com/Turkyden)
 [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=csxiaoyaojianxian.csxiaoyaojianxian&left_color=green&right_color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=csxiaoyaojianxian.csxiaoyaojianxian&left_color=green&right_color=red)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian)
+![](https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=vue)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian)
