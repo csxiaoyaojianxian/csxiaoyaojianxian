@@ -1,4 +1,9 @@
 ## Yoo, I'm csxiaoyao 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yoo, I'm csxiaoyao 👋;~~~)
+‍
+
+‍
+
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fcsxiaoyaojianxian)](https://github.com/csxiaoyaojianxian)
 [![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F2326436672)](https://weibo.com/u/2326436672)
