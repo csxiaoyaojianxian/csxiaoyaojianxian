@@ -10,7 +10,7 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=vue)
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian)
 ![trophy](https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian)
 
