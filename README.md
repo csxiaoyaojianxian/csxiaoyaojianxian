@@ -12,7 +12,7 @@
 [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
 ![](https://visitor-badge.glitch.me/badge?page_id=csxiaoyaojianxian.csxiaoyaojianxian&left_color=green&right_color=red)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=vue)
+![](https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian)
