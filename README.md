@@ -1,5 +1,5 @@
 ## Yoo, I'm csxiaoyao 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yoo, I'm csxiaoyao 👋;~~~)
+![](https://readme-typing-svg.demolab.com/?lines=Yoo,+I'm+csxiaoyao👋;~~~)
 ‍
 
 ‍
