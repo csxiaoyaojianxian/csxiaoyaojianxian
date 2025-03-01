@@ -1,23 +1,25 @@
-## Yoo, I'm csxiaoyao 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F79232&background=1942FF00&multiline=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFCS%E9%80%8D%E9%81%A5%E5%89%91%E4%BB%99%F0%9F%91%8B)
 ‍
+<!-- sign -->
+![](https://raw.githubusercontent.com/csxiaoyaojianxian/ImageHosting/master/img/sign.jpg)
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+<div>
+  <a href="https://csxiaoyao.com"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=csxiaoyaojianxian&label=Views&color=orange&style=flat" alt="访问量统计"/>
+</div>
 
+<!-- github data -->
+![](https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/profile-3d-contrib/profile-gitblock.svg)
 
-  <div>
-    <a href="https://csxiaoyao.com"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=csxiaoyaojianxian&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
+<!-- just for beauty -->
+<div>&nbsp;</div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- Snake Code Contribution Map -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fcsxiaoyaojianxian)](https://github.com/csxiaoyaojianxian)
 [![Weibo](https://img.shields.io/badge/dynamic/json?logo=sina-weibo&label=Weibo&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fweibo%2F2326436672)](https://weibo.com/u/2326436672)
@@ -27,7 +29,6 @@
 [![Github](https://img.shields.io/github/followers/Turkyden?label=Follow&style=social)](https://github.com/Turkyden)
 ![](https://visitor-badge.glitch.me/badge?page_id=csxiaoyaojianxian.csxiaoyaojianxian&left_color=green&right_color=red)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian)
@@ -38,22 +39,13 @@
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/profile-3d-contrib/profile-gitblock.svg">
 
 ![](https://wx1.sinaimg.cn/bmiddle/8aaa9b40gy1frfkon6z63g208c08cqeb.gif)
 
 ![](https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian)
 
-![](https://raw.githubusercontent.com/csxiaoyaojianxian/ImageHosting/master/img/sign.jpg)
-
-
 
 <details>
-<summary>More about me</summary>
-
-<br/>
-
-[![github](https://cdn.jsdelivr.net/gh/turkyden/md-resume/logo/social/github.png)](https://github.com/csxiaoyaojianxian) 🇨🇳
-
+<summary>More data</summary>
+![](https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light)
 </details>
-
