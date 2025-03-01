@@ -1,7 +1,6 @@
 ## Yoo, I'm csxiaoyao 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F79232&background=1942FF00&multiline=true&width=435&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFCS%E9%80%8D%E9%81%A5%E5%89%91%E4%BB%99%F0%9F%91%8B)
 ‍
-![](./profile-3d-contrib/profile-gitblock.svg)
 ‍
 
 
@@ -23,7 +22,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
-
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ![](https://wx1.sinaimg.cn/bmiddle/8aaa9b40gy1frfkon6z63g208c08cqeb.gif)
 
