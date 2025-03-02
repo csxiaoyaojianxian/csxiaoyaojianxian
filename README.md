@@ -25,8 +25,8 @@
 
 ![需要梯子](./profile-3d-contrib/profile-gitblock.svg)
 
-<p>
-  <img align="center"  src="https://streak-stats.demolab.com/?user=csxiaoyaojianxian">
+<p align="center" >
+  <img align="center" src="https://streak-stats.demolab.com/?user=csxiaoyaojianxian">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=transparent&column=-1" />
 </p>
 
@@ -37,7 +37,7 @@
 <details>
 <summary>更多数据</summary>
 
-  <p>
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian&theme=transparent&layout=compact">
   </p>
