@@ -26,9 +26,9 @@
 ![需要梯子](./profile-3d-contrib/profile-gitblock.svg)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian&theme=transparent&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=transparent&column=-1&no-frame=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=transparent" />
 </p>
 
 <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
