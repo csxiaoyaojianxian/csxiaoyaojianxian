@@ -39,6 +39,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
+![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true)
+
 <details>
 <summary>More data</summary>
 
