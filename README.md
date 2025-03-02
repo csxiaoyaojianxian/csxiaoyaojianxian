@@ -68,6 +68,22 @@
 - [【前端er入门Shader系列】01—从渲染管线了解Shader](https://blog.csxiaoyao.com/archives/596)
 <!-- BLOG-POST-LIST:END -->
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+</p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
+</p>
+111
+<p align="center"> 
+  <a href="https://github.com/csxiaoyaojianxian/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=csxiaoyaojianxian&mode=std&animation=true&lang=en&skills=true" width="600" /></a>
+</p>
+
+<p align="center"> 
+  Visitor count</br>
+  <img src="https://profile-counter.glitch.me/csxiaoyaojianxian/count.svg" />
+</p>
+
 <!-- sign -->
 
 ![](https://raw.githubusercontent.com/csxiaoyaojianxian/ImageHosting/master/img/sign.jpg)
