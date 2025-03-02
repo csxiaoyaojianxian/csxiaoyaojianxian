@@ -26,10 +26,9 @@
 ![需要梯子](./profile-3d-contrib/profile-gitblock.svg)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=transparent&column=-1&no-frame=true" />
 </p>
 
 <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
@@ -39,16 +38,16 @@
 <details>
 <summary>更多数据</summary>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light">
+  <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light">
   <!-- ![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true) -->
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
 
-  <a href="https://star-history.com/#csxiaoyaojianxian/JavaScriptStudy&Date">
-  <picture>
+  <a align="center"  href="https://star-history.com/#csxiaoyaojianxian/JavaScriptStudy&Date">
+  <picture align="center" >
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
+    <img align="center"  alt="Star History Chart" src="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
   </picture>
   </a>
 
