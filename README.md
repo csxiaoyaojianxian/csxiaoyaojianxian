@@ -25,9 +25,10 @@
 </picture>
 
 <!-- github data -->
-<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 <div>
-  <img src="./profile-3d-contrib/profile-gitblock.svg">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian">
   <img src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian">
 </div>
