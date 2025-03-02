@@ -74,9 +74,8 @@
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
 </p>
-111
 <p align="center"> 
-  <a href="https://github.com/csxiaoyaojianxian/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=csxiaoyaojianxian&mode=std&animation=true&lang=en&skills=true" width="600" /></a>
+  <a href="https://osu.ppy.sh/u/csxiaoyaojianxian"><img src="/card?user=csxiaoyaojianxian&mode=std&animation=true&hue=200" width="600"/></a>
 </p>
 
 <p align="center"> 
