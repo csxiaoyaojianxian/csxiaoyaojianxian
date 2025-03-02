@@ -23,7 +23,7 @@
 
 <!-- github data -->
 
-![需要梯子才能看到](./profile-3d-contrib/profile-gitblock.svg)
+![需要梯子](./profile-3d-contrib/profile-gitblock.svg)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian">
