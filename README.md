@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> -->
 
 <details>
-<summary>更多数据</summary>
+<summary>👀 更多数据</summary>
 
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
