@@ -40,12 +40,14 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
-![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date)](https://star-history.com/#csxiaoyaojianxian/JavaScriptStudy&Date)
 
 <details>
 <summary>More data</summary>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light">
+<!-- ![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true) -->
 
 </details>
 
