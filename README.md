@@ -14,9 +14,6 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/csxiaoyaojianxian?style=social)](https://github.com/csxiaoyaojianxian)
 [![Github](https://img.shields.io/github/followers/csxiaoyaojianxian?label=Follow&style=social)](https://github.com/csxiaoyaojianxian)
 
-<!-- just for beauty -->
-<!-- <div>&nbsp;</div> -->
-
 <!-- Snake Code Contribution Map -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake-dark.svg">
@@ -41,7 +38,7 @@
 
 
 <details>
-<summary>More data</summary>
+<summary>更多数据</summary>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light">
   <!-- ![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true) -->
@@ -57,6 +54,9 @@
   </a>
 
 </details>
+
+<!-- just for beauty -->
+<div>&nbsp;</div>
 
 ## 博客最新文章RSS
 <!-- RSS -->
