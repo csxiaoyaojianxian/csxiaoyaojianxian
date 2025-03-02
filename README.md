@@ -25,17 +25,16 @@
 
 ![需要梯子](./profile-3d-contrib/profile-gitblock.svg)
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian">
-  <img src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian">
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" />
+</p>
 
 <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> -->
-
-![trophy](https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian)
-
 
 <details>
 <summary>更多数据</summary>
@@ -69,20 +68,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
-</p>
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
-</p>
-<p align="center"> 
-  <a href="https://osu.ppy.sh/u/csxiaoyaojianxian"><img src="/card?user=csxiaoyaojianxian&mode=std&animation=true&hue=200" width="600"/></a>
-</p>
-
-<p align="center"> 
-  Visitor count</br>
+  访问统计</br>
   <img src="https://profile-counter.glitch.me/csxiaoyaojianxian/count.svg" />
 </p>
 
 <!-- sign -->
 
-![](https://raw.githubusercontent.com/csxiaoyaojianxian/ImageHosting/master/img/sign.jpg)
+![需要梯子](https://raw.githubusercontent.com/csxiaoyaojianxian/ImageHosting/master/img/sign.jpg)
