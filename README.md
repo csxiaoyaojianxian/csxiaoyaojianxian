@@ -39,15 +39,22 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date)](https://star-history.com/#csxiaoyaojianxian/JavaScriptStudy&Date)
 
 <details>
 <summary>More data</summary>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light">
-<!-- ![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light">
+  <!-- ![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true) -->
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
+
+  <a href="https://star-history.com/#csxiaoyaojianxian/JavaScriptStudy&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
+  </picture>
+  </a>
 
 </details>
 
