@@ -65,11 +65,11 @@
 - [【前端er入门Shader系列】01—从渲染管线了解Shader](https://blog.csxiaoyao.com/archives/596)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"> 
-  访问统计</br>
-  <img src="https://profile-counter.glitch.me/csxiaoyaojianxian/count.svg" />
-</p>
-
 <!-- sign -->
 
 ![需要梯子](https://raw.githubusercontent.com/csxiaoyaojianxian/ImageHosting/master/img/sign.jpg)
+
+<p align="center"> 
+  <!-- 访问统计</br> -->
+  <img src="https://profile-counter.glitch.me/csxiaoyaojianxian/count.svg" />
+</p>
