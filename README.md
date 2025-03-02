@@ -14,16 +14,18 @@
 
 <!-- Snake Code Contribution Map -->
 <div style="display: flex;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="./profile-3d-contrib/profile-gitblock.svg">
   <div style="display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian">
     <img src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian">
   </div>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/csxiaoyaojianxian/csxiaoyaojianxian/output/github-contribution-grid-snake.svg">
+</picture>
 
 [![BLog](https://img.shields.io/badge/csxiaoyao.com-Blog-8c36db)](https://csxiaoyao.com)
 
