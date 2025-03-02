@@ -26,8 +26,9 @@
 ![需要梯子](./profile-3d-contrib/profile-gitblock.svg)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian&theme=transparent&layout=compact&column=-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=csxiaoyaojianxian&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csxiaoyaojianxian&theme=transparent&layout=compact">
+  <img align="center"  src="https://streak-stats.demolab.com/?user=csxiaoyaojianxian">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=csxiaoyaojianxian&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=transparent&column=-1" />
 </p>
 
@@ -41,14 +42,12 @@
   <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=csxiaoyaojianxian&theme=github-light">
   <!-- ![](https://stats.justsong.cn/api/leetcode?username=csxiaoyaojianxian&cn=true) -->
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=csxiaoyaojianxian)
-
   <a align="center"  href="https://star-history.com/#csxiaoyaojianxian/JavaScriptStudy&Date">
-  <picture align="center" >
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
-    <img align="center"  alt="Star History Chart" src="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
-  </picture>
+    <picture align="center" >
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
+      <img align="center"  alt="Star History Chart" src="https://api.star-history.com/svg?repos=csxiaoyaojianxian/JavaScriptStudy&type=Date" />
+    </picture>
   </a>
 
 </details>
