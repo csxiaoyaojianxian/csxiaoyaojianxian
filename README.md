@@ -60,6 +60,11 @@
 
 <!-- RSS -->
 <!-- BLOG-POST-LIST:START -->
+- [【前端er入门Shader系列】05—在cocos中使用shader实现简单特效](https://blog.csxiaoyao.com/archives/604)
+- [【前端er入门Shader系列】04—MVP矩阵与纹理映射](https://blog.csxiaoyao.com/archives/602)
+- [【前端er入门Shader系列】03—Shader形状绘制](https://blog.csxiaoyao.com/archives/600)
+- [【前端er入门Shader系列】02—GLSL语言基础](https://blog.csxiaoyao.com/archives/598)
+- [【前端er入门Shader系列】01—从渲染管线了解Shader](https://blog.csxiaoyao.com/archives/596)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- sign -->
