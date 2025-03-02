@@ -34,6 +34,8 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> -->
 
+<!-- just for beauty -->
+<div>&nbsp;</div>
 <details>
 <summary>👀 更多数据</summary>
 
