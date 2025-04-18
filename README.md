@@ -69,11 +69,11 @@
 ## 博客最新文章RSS
 <!-- RSS -->
 <!-- BLOG-POST-LIST:START -->
-- [不会绘画的程序员必学—Stable Diffusion入门笔记01](https://blog.csxiaoyao.com/archives/664)
+- [【零绘画基础程序员必学】AI绘画入门笔记03—初识ComfyUI+FlUX](https://blog.csxiaoyao.com/archives/673)
+- [【零绘画基础程序员必学】AI绘画入门笔记02—SD应用](https://blog.csxiaoyao.com/archives/671)
+- [【零绘画基础程序员必学】AI绘画入门笔记01—Stable Diffusion上手体验](https://blog.csxiaoyao.com/archives/664)
 - [【前端er入门Shader系列】05—在cocos中使用shader实现简单特效](https://blog.csxiaoyao.com/archives/604)
 - [【前端er入门Shader系列】04—MVP矩阵与纹理映射](https://blog.csxiaoyao.com/archives/602)
-- [【前端er入门Shader系列】03—Shader形状绘制](https://blog.csxiaoyao.com/archives/600)
-- [【前端er入门Shader系列】02—GLSL语言基础](https://blog.csxiaoyao.com/archives/598)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- sign -->
