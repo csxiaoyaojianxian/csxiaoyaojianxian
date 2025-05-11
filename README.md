@@ -69,11 +69,11 @@
 ## 博客最新文章RSS
 <!-- RSS -->
 <!-- BLOG-POST-LIST:START -->
-- [【零绘画基础程序员必学】AI绘画入门笔记03—初识ComfyUI+FlUX](https://blog.csxiaoyao.com/archives/673)
-- [【零绘画基础程序员必学】AI绘画入门笔记02—SD应用](https://blog.csxiaoyao.com/archives/671)
-- [【零绘画基础程序员必学】AI绘画入门笔记01—Stable Diffusion上手体验](https://blog.csxiaoyao.com/archives/664)
-- [【前端er入门Shader系列】05—在cocos中使用shader实现简单特效](https://blog.csxiaoyao.com/archives/604)
-- [【前端er入门Shader系列】04—MVP矩阵与纹理映射](https://blog.csxiaoyao.com/archives/602)
+- [编译原理工程实践—05使用babel操作AST实现代码转换](https://blog.csxiaoyao.com/archives/686)
+- [编译原理工程实践—04处理语义分析实现简易脚本解释器](https://blog.csxiaoyao.com/archives/684)
+- [编译原理工程实践—03使用递归下降算法实现简易语法分析器](https://blog.csxiaoyao.com/archives/682)
+- [# 编译原理工程实践—02基于正则文法和有限自动机实现简易词法分析器](https://blog.csxiaoyao.com/archives/679)
+- [编译原理工程实践—01编译器前端技术核心三步](https://blog.csxiaoyao.com/archives/676)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- sign -->
