@@ -69,11 +69,11 @@
 ## 博客最新文章RSS
 <!-- RSS -->
 <!-- BLOG-POST-LIST:START -->
+- [避免“工作撞车”——多人协同编辑引擎在基于AST的低代码平台上的设计实践](https://blog.csxiaoyao.com/archives/690)
 - [编译原理工程实践—05使用babel操作AST实现代码转换](https://blog.csxiaoyao.com/archives/686)
 - [编译原理工程实践—04处理语义分析实现简易脚本解释器](https://blog.csxiaoyao.com/archives/684)
 - [编译原理工程实践—03使用递归下降算法实现简易语法分析器](https://blog.csxiaoyao.com/archives/682)
 - [编译原理工程实践—02基于正则文法和有限自动机实现简易词法分析器](https://blog.csxiaoyao.com/archives/679)
-- [编译原理工程实践—01编译器前端技术核心三步](https://blog.csxiaoyao.com/archives/676)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- sign -->
